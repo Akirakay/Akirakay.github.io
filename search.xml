@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>k8s介绍</title>
+      <link href="2021/06/22/k8s%E4%BB%8B%E7%BB%8D/"/>
+      <url>2021/06/22/k8s%E4%BB%8B%E7%BB%8D/</url>
+      
+        <content type="html"><![CDATA[<h1>k8s 介绍</h1><p>原文：<a href="https://www.jeremyjordan.me/kubernetes/">An introduction to Kubernetes</a></p><p>引用：<a href="http://wu.run/2021/04/20/an-introduction-to-k8s/">k8s介绍</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> k8s </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MySQL Explain详解</title>
       <link href="2021/06/19/MySQL-Explain%E8%AF%A6%E8%A7%A3/"/>
       <url>2021/06/19/MySQL-Explain%E8%AF%A6%E8%A7%A3/</url>
